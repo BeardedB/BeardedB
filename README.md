@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeardedB
+- 👋 Hi, I’m @BeardedB, I am a Web designer
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on app development
